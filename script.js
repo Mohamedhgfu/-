@@ -7,7 +7,7 @@ let currentLanguage = 'ar';
 
 const translations = {
   en: {
-    "store-name": "♕ Lords Union ♕",
+    "store-name": "♕ 𝕊𝕙𝕒𝕞𝕤 𝕊𝕥𝕠𝕣𝕖 ♕",
     "gems": "Gems",
     "resources": "Resources",
     "diamonds": "Diamonds",
